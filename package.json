@@ -1,0 +1,22 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "Camping Spots Around the United States",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Camping",
+    "Hiking",
+    "Outdoors",
+    "Adventures",
+    "Overnight"
+  ],
+  "author": "Brett Warnebold",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
